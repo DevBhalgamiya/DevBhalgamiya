@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devbhalgamiya&" alt="devbhalgamiya" /></p>
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://www.buymeacoffee.com/DevBhalgamiya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevBhalgamiya" /></a></div><br><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://buymeacoffee.com/devbhalgamv"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevBhalgamiya" /></a></div><br><br>
