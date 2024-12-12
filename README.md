@@ -38,3 +38,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevBhalgamiya&theme=dark&hide_border=false)
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://buymeacoffee.com/devbhalgamv"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevBhalgamiya" /></a></div><br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevBhalgamiya/DevBhalgamiya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevBhalgamiya/DevBhalgamiya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DevBhalgamiya/DevBhalgamiya/output/github-snake.svg" />
+</picture>
